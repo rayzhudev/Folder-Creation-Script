@@ -6,7 +6,7 @@ This creates folders in the format:
 
 ```
 Your Directory/
-├── Lecture\ Notes
+├── Lecture Notes
 └── Tutorials
     ├── Week 1
     ├── Week 2
