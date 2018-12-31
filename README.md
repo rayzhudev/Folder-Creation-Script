@@ -4,7 +4,8 @@ A simple script for creating folders in a format for university work.
 
 This creates folders in the format:
 
-```Your Directory/
+```
+Your Directory/
 ├── Lecture\ Notes
 └── Tutorials
     ├── Week 1
