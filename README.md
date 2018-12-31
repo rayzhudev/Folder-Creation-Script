@@ -1,4 +1,4 @@
-# Folder-Creation-Script
+# Folder Creation Script
 A simple script for creating folders in a format for university work.
 
 
